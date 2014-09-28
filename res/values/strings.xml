@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BSITCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    
+    <string name="z">0</string>
+    <string name="o">1</string>
+    <string name="t">2</string>
+    <string name="tr">3</string>
+    <string name="th">4</string>
+    <string name="f">5</string>
+    <string name="s">6</string>
+    <string name="sev">7</string>
+    <string name="e">8</string>
+    <string name="n">9</string>
+    
+    <string name="m">-</string>
+    <string name="p">+</string>
+    <string name="times">*</string>
+    <string name="d">/</string>
+    <string name="equ">=</string>
+    <string-array name="ewan">
+        <item >Binary</item>
+        <item >Octal</item>
+        <item >Decimal</item>
+        <item >Hexadecimal</item>
+       
+    </string-array>
+    
+
+</resources>
